@@ -2,7 +2,7 @@
     "name": "paypay-php/composer-test",
     "description": "Test for composer releases",
     "type": "library",
-    "license": "apache2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Ayaskant Mishra",
