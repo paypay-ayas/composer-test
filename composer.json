@@ -1,0 +1,17 @@
+{
+    "name": "paypay-php/composer-test",
+    "description": "Test for composer releases",
+    "type": "library",
+    "license": "apache2.0",
+    "authors": [
+        {
+            "name": "Ayaskant Mishra",
+            "email": "t-ayaskant.mishra@paypay-corp.co.jp"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"PayPayPhp\\hello\\": "src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
