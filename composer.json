@@ -12,6 +12,6 @@
     "autoload": {
         "psr-4": {"PayPayPhp\\hello\\": "src/"}
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "require": {}
 }
